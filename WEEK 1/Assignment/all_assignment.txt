@@ -1,0 +1,18 @@
+# A program that takes a word and prints if it starts with a vowel or a consonant
+
+# A program that takes 5 letter word and prints each letter and say if it
+# is a vowel or a consonant(Do not use loop, you can try to avoid if and else)
+
+# model a classroom with these three data structures: Tuple, list, dictionary
+# fname, lastname, height, weight, birth year, gender
+c
+# Deitel page 116(All the exercises there)
+
+# convert numbers to words(1-1000)
+
+# factors of a number (between the range of 1-10) using for loop
+factors of a number (between the range of 1-10) using while loop
+
+
+# # Given a List of subject, objects and verbs, generate a sentence in which 
+at least one word from each item is included in the generated sentence
